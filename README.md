@@ -5,3 +5,6 @@ this project is an application using BigData technologies: hadoop and cassandra
 * Coping data from cassandra to HDFS 
 * Running hadoop job using input data from HDFS 
 * The output is visualized using canvasJs
+
+## License
+[MIT License](https://opensource.org/licenses/MIT)
